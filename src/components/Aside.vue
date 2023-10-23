@@ -1,7 +1,7 @@
 <template>
   <el-row class="tac">
     <el-col :span="24">
-      <h3 class="mb-2 mt-2">学习APP后台管理系统</h3>
+      <h3 class="mb-2 mt-2">Notesharea管理系统</h3>
       <el-menu router active-text-color="#ffd04b" background-color="#47535e" default-active="2" text-color="#fff">
         <el-menu-item index="/dashboard">
           <el-icon>

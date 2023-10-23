@@ -2,7 +2,7 @@
   <div class="login-box">
     <el-row class="row-bg" justify="center">
       <el-col :span="6">
-        <h2>学习APP后台管理系统</h2>
+        <h2>Notesharea管理系统</h2>
       </el-col>
     </el-row>
     <el-row class="row-bg" justify="center">
